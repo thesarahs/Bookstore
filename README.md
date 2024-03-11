@@ -23,6 +23,7 @@ This API was created as part of an assignment in the BDV101 course at McMaster U
 OpenAPI Definition file can be found at [https://app.swaggerhub.com/apis/KAMALZAS/bookstore-api/1.0.0](https://app.swaggerhub.com/apis/KAMALZAS/bookstore-api/1.0.0)
 
 ## Directory Structure
+```markdown
 .
 ├── node_modules/
 ├── views/
